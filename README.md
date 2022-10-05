@@ -10,4 +10,5 @@ Hackers left on one of out servers file with encrypted message that may be helpf
 - Participant calculates randomly generated "key"
 - Participant write script, eg in python, taht recover characters from output using key
 - Participant construct flag: CyberTron22{aes_d0_th3_j08}
+
 Example solving script is located in `decrypt.py`
