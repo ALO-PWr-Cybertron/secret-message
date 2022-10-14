@@ -1,12 +1,7 @@
 # Secret Message
+## Ticket Content
 
-## Description
-
-On one of our servers, hackers left a file with encrypted message, which might be helpful while recovering the documents encrypted with ransomware. We've also found file, which was probably used for encryption. Go decrypt the message before it's too late!
-
-## Alternative Ticket Content
-
-We found these files on our servers. We suspect that they're linked to the ransomware attack, which has infected our server. We believe that what we found are an encrypted message and executable, which was probably used for encryption. Decode message as fast as possible and report back.
+We found these files on our servers. We suspect that they're linked to the ransomware attack, which has infected our server. We believe that what we found are an executable and encrypted message. Decode it as fast as possible and report back.
 
 ## Writeup
 
